@@ -1,3 +1,5 @@
+"""Наблюдатель — это поведенческий паттерн, который позволяет объектам оповещать
+другие объекты об изменениях своего состояния."""
 from __future__ import annotations
 from abc import ABC, abstractmethod
 from random import randrange
